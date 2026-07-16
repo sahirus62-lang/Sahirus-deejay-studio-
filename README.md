@@ -3,7 +3,7 @@
 # Sahirus Deejay Studio
 
 Bienvenue sur le site officiel de Sahirus Deejay Studio.
-
+passse ta commande 
 ## Services
 
 - 🎵 Musiques
@@ -18,4 +18,5 @@ Bienvenue sur le site officiel de Sahirus Deejay Studio.
 
 📧 Email : sahirus62@gmail.com
 
-© 2026 Sahirus Deejay Studio
+© 2026 Sahirus Deejay professionnelle 
+https://www.facebook.com/sahirus.henry
