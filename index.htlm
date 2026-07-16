@@ -1,0 +1,381 @@
+Sahirus Dj: <!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Sahirus Deejay Studio - Création de chansons personnalisées, DJ, montage vidéo, retouche photo IA et production musicale.">
+
+    <title>Sahirus Deejay Studio | Studio Professionnel</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+
+    <div class="logo">
+        <h1>Sahirus Deejay Studio</h1>
+    </div>
+
+    <nav>
+
+        <ul>
+
+            <li><a href="#accueil">Accueil</a></li>
+
+            <li><a href="#apropos">À propos</a></li>
+
+            <li><a href="#services">Services</a></li>
+
+            <li><a href="#galerie">Galerie</a></li>
+
+            <li><a href="#musiques">Musiques</a></li>
+
+            <li><a href="#videos">Vidéos</a></li>
+
+            <li><a href="#tarifs">Tarifs</a></li>
+
+            <li><a href="#contact">Contact</a></li>
+
+        </ul>
+
+    </nav>
+
+</header>
+[16/07 18:00] Sahirus Dj: <!-- =========================
+     ACCUEIL
+========================= -->
+
+<section id="accueil" class="hero">
+
+    <div class="hero-content">
+
+        <h2>Bienvenue chez Sahirus Deejay Studio</h2>
+
+        <p>
+            Votre studio professionnel de création musicale,
+            chansons personnalisées, DJ, montage vidéo
+            et retouche photo IA.
+        </p>
+
+        <a href="#contact" class="btn">
+            Commander maintenant
+        </a>
+
+        <a href="#services" class="btn2">
+            Découvrir nos services
+        </a>
+
+    </div>
+
+</section>
+
+<!-- =========================
+     À PROPOS
+========================= -->
+
+<section id="apropos">
+
+    <h2>À propos</h2>
+
+    <p>
+
+        Sahirus Deejay Studio est un studio créatif spécialisé dans la
+        création de chansons personnalisées, le DJing, le montage vidéo,
+        la retouche photo par intelligence artificielle, les shootings
+        photo, la création de contenus et les services multimédias.
+
+    </p>
+
+    <p>
+
+        Notre objectif est d'offrir un travail professionnel,
+        moderne et de qualité à chaque client.
+
+    </p>
+
+</section>
+Sahirus Dj: <!-- =========================
+     SERVICES
+========================= -->
+
+<section id="services">
+
+    <h2>Nos Services</h2>
+
+    <div class="services-container">
+
+        <div class="service-box">
+            <i class="fas fa-music"></i>
+            <h3>Création de chansons</h3>
+            <p>Chansons personnalisées pour anniversaire, mariage, amour, gospel, rumba, afro, zouk et bien plus.</p>
+        </div>
+
+        <div class="service-box">
+            <i class="fas fa-headphones"></i>
+            <h3>DJ Professionnel</h3>
+            <p>Animation de mariages, anniversaires, soirées privées, événements et cérémonies.</p>
+        </div>
+
+        <div class="service-box">
+            <i class="fas fa-photo-film"></i>
+            <h3>Montage Vidéo</h3>
+            <p>Montage vidéo professionnel pour clips, publicités, anniversaires et réseaux sociaux.</p>
+        </div>
+
+        <div class="service-box">
+            <i class="fas fa-camera"></i>
+            <h3>Shooting Photo</h3>
+            <p>Séances photo modernes avec retouches professionnelles par intelligence artificielle.</p>
+        </div>
+
+        <div class="service-box">
+            <i class="fas fa-image"></i>
+            <h3>Retouche Photo IA</h3>
+            <p>Transformation, amélioration et création d'images de haute qualité grâce à l'IA.</p>
+        </div>
+
+        <div class="service-box">
+            <i class="fas fa-microphone"></i>
+            <h3>Studio Audio</h3>
+            <p>Enregistrement vocal, mixage, mastering et production musicale professionnelle.</p>
+        </div>
+
+    </div>
+
+</section>
+Sahirus Dj: <!-- =========================
+     GALERIE
+========================= -->
+
+<section id="galerie">
+
+    <h2>Galerie</h2>
+
+    <p>
+        Découvrez quelques exemples de nos réalisations.
+    </p>
+
+    <div class="gallery">
+
+        <div class="gallery-item">
+            <img src="images/photo1.jpg" alt="Shooting Photo">
+            <h3>Shooting Professionnel</h3>
+        </div>
+
+        <div class="gallery-item">
+            <img src="images/photo2.jpg" alt="Retouche IA">
+            <h3>Retouche Photo IA</h3>
+        </div>
+
+        <div class="gallery-item">
+            <img src="images/photo3.jpg" alt="Studio">
+            <h3>Studio Musical</h3>
+        </div>
+
+        <div class="gallery-item">
+            <img src="images/photo4.jpg" alt="DJ">
+            <h3>Animation DJ</h3>
+        </div>
+
+        <div class="gallery-item">
+            <img src="images/photo5.jpg" alt="Montage vidéo">
+            <h3>Montage Vidéo</h3>
+        </div>
+
+        <div class="gallery-item">
+            <img src="images/photo6.jpg" alt="Création musicale">
+            <h3>Création Musicale</h3>
+        </div>
+
+    </div>
+
+</section>
+Sahirus Dj: <!-- =========================
+     MUSIQUES
+========================= -->
+
+<section id="musiques">
+
+    <h2>Nos Créations Musicales</h2>
+
+    <p>
+        Découvrez quelques extraits de nos productions.
+    </p>
+
+    <div class="music-list">
+
+        <div class="music-card">
+
+            <h3>Chanson Personnalisée</h3>
+
+            <audio controls>
+                <source src="audio/chanson1.mp3" type="audio/mpeg">
+                Votre navigateur ne supporte pas l'audio.
+            </audio>
+
+        </div>
+
+        <div class="music-card">
+
+            <h3>Production Afro</h3>
+
+            <audio controls>
+                <source src="audio/chanson2.mp3" type="audio/mpeg">
+                Votre navigateur ne supporte pas l'audio.
+            </audio>
+
+        </div>
+
+        <div class="music-card">
+
+            <h3>Production Gospel</h3>
+
+            <audio controls>
+                <source src="audio/chanson3.mp3" type="audio/mpeg">
+                Votre navigateur ne supporte pas l'audio.
+            </audio>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- =========================
+     VIDÉOS
+========================= -->
+
+<section id="videos">
+
+    <h2>Nos Vidéos</h2>
+
+    <p>
+        Retrouvez nos clips, montages vidéo et réalisations.
+    </p>
+
+    <div class="video-container">
+
+        <video controls width="100%">
+            <source src="video/video1.mp4" type="video/mp4">
+            Votre navigateur ne supporte pas la vidéo.
+        </video>
+
+    </div>
+
+</section>
+Sahirus Dj: <!-- =========================
+     TARIFS
+========================= -->
+
+<section id="tarifs">
+
+    <h2>Nos Tarifs</h2>
+
+    <div class="pricing">
+
+        <div class="price-card">
+            <h3>Chanson personnalisée</h3>
+            <p class="prix">Sur devis</p>
+            <p>Selon le style, la durée et les options choisies.</p>
+        </div>
+
+        <div class="price-card">
+            <h3>Animation DJ</h3>
+            <p class="prix">Sur devis</p>
+            <p>Pour mariages, anniversaires, soirées et événements.</p>
+        </div>
+
+        <div class="price-card">
+            <h3>Montage vidéo</h3>
+            <p class="prix">Sur devis</p>
+            <p>Montage professionnel adapté à vos besoins.</p>
+        </div>
+
+        <div class="price-card">
+            <h3>Retouche Photo IA</h3>
+            <p class="prix">Sur devis</p>
+            <p>Retouche et création d'images professionnelles.</p>
+        </div>
+
+    </div>
+
+</section>
+
+<!-- =========================
+     COMMANDE
+========================= -->
+
+<section id="commande">
+
+    <h2>Commander un Service</h2>
+
+    <form>
+
+        <input type="text" placeholder="Votre nom" required>
+
+        <input type="email" placeholder="Votre e-mail
+        Sahirus Dj: <!-- =========================
+     RÉSEAUX SOCIAUX
+========================= -->
+
+<section id="reseaux">
+
+    <h2>Suivez-nous</h2>
+
+    <div class="social-links">
+
+        <a href="#"><i class="fab fa-facebook-f"></i> Facebook</a>
+
+        <a href="#"><i class="fab fa-tiktok"></i> TikTok</a>
+
+        <a href="#"><i class="fab fa-youtube"></i> YouTube</a>
+
+        <a href="#"><i class="fab fa-instagram"></i> Instagram</a>
+
+    </div>
+
+</section>
+
+<!-- =========================
+     BOUTON WHATSAPP
+========================= -->
+
+<a href="https://wa.me/237VOTRENUMERO"
+   class="whatsapp-float"
+   target="_blank">
+
+    <i class="fab fa-whatsapp"></i>
+
+</a>
+
+<!-- =========================
+     PIED DE PAGE
+========================= -->
+
+<footer>
+
+    <h3>Sahirus Deejay Studio</h3>
+
+    <p>
+        Création de chansons • DJ • Studio Audio • Montage Vidéo • Retouche Photo IA
+    </p>
+
+    <p>
+        © 2026 Sahirus Deejay Studio. Tous droits réservés.
+    </p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
