@@ -231,12 +231,27 @@ h2 {
     transition: 0.3s ease;
     border: 2px solid transparent;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
 }
 
 .service-box:hover {
     transform: translateY(-10px);
     border: 2px solid #FFD700;
     box-shadow: 0 15px 40px rgba(255, 215, 0, 0.2);
+}
+
+.service-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    transition: 0.3s ease;
+}
+
+.service-box:hover .service-image {
+    transform: scale(1.05);
+    filter: brightness(1.1);
 }
 
 .service-box i {
@@ -578,6 +593,25 @@ footer {
     max-width: 1200px;
     margin: 0 auto;
     margin-bottom: 30px;
+    align-items: center;
+}
+
+.footer-logo {
+    text-align: center;
+}
+
+.footer-image {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px rgba(255, 215, 0, 0.2);
+    transition: 0.3s ease;
+}
+
+.footer-image:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 30px rgba(255, 215, 0, 0.3);
 }
 
 footer h3,
@@ -647,6 +681,10 @@ footer a:hover {
         grid-template-columns: 1fr;
     }
 
+    .footer-content {
+        grid-template-columns: 1fr;
+    }
+
     .whatsapp-float {
         width: 50px;
         height: 50px;
@@ -685,5 +723,9 @@ footer a:hover {
     .payment-option {
         font-size: 12px;
         padding: 6px;
+    }
+
+    .footer-image {
+        max-width: 200px;
     }
 }
